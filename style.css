@@ -1,0 +1,12 @@
+.book{
+    height: 30px;
+}
+table,thead,td{
+    border: 1px solid black;
+}
+td{
+    width: 33vw;
+}
+tbody{
+    background-color: lightgrey;
+}
